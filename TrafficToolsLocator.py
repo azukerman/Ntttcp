@@ -10,7 +10,7 @@ class TrafficToolsLocator:
 
 class TrafficToolsLocatorWindows(TrafficToolsLocator):
     def getNtttcp(self):
-        return r"C:\qa\Tools\NTttcp\new\NTttcp_x64.exe"
+        return r"C:\exeOh\tools\NTttcp_x64.exe"
 
 
 class TrafficToolsLocatorLinux(TrafficToolsLocator):
